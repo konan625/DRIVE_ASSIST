@@ -1,0 +1,6 @@
+names:
+- awake
+- drowsy
+nc: 2
+train: Drowsiness-Detection-2/train/images
+val: Drowsiness-Detection-2/valid/images
